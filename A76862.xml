@@ -1,0 +1,222 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A bloody fight at Balrud-Derry in Ireland: where Sir Henry Titchburne was shot in the belly, his sonne slaine, Colonell Trevor, and divers officers and gentlemen killed, others taken prisoners. Many of the rebels slaine. The garrison of Trim relieved, and the rebels pursued by Colonell Jones, with 2 demi-culverins, five field peeces, and 7000 horse and foot.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76862</idno>
+            <idno type="STC">Wing B3235</idno>
+            <idno type="STC">Thomason E401_18</idno>
+            <idno type="STC">ESTC R201782</idno>
+            <idno type="EEBO-CITATION">99862282</idno>
+            <idno type="PROQUEST">99862282</idno>
+            <idno type="VID">160423</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76862)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160423)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E401[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A bloody fight at Balrud-Derry in Ireland: where Sir Henry Titchburne was shot in the belly, his sonne slaine, Colonell Trevor, and divers officers and gentlemen killed, others taken prisoners. Many of the rebels slaine. The garrison of Trim relieved, and the rebels pursued by Colonell Jones, with 2 demi-culverins, five field peeces, and 7000 horse and foot.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Ibbitson.,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug: 10th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tichborne, Henry, --  Sir, 1581?-1667.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160423:1" rendition="simple:additions"/>
+            <p>A BLOODY FIGHT AT <hi>BALR<g ref="char:V">Ʋ</g>D-DERRY</hi> IN IRELAND: WHERE Sir <hi>Henry Titchburne</hi> was ſhot in the belly, his Sonne ſlaine, Colonell <hi>Trevor,</hi> and divers Officers and Gentlemen killed, others taken Priſoners.</p>
+            <p>Many of the Rebels ſlaine.</p>
+            <p>THE Garriſon of TRIM relieved, and the Rebels purſued by Colonell <hi>Jones,</hi> with 2 Demi-culverins, five field peeces, and 7000 Horſe and Foot.</p>
+            <p>
+               <add>Aug: 10<hi rend="sup">th</hi>
+               </add> Printed at <hi>London</hi> by <hi>Robert Ibbitſon.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:160423:2"/>
+            <pb n="1" facs="tcp:160423:2"/>
+            <head>A Bloody fight at <hi>Balrud-Derry</hi> in <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> Sir <hi>Henry Titchburne</hi> ſhot in the belly, his Sonne ſlaine, Collonell <hi>Tre<g ref="char:EOLhyphen"/>vor,</hi> and divers Officers and Gen<g ref="char:EOLhyphen"/>tlemen killed, others taken priſoners, Many of the Rebels, ſlaine.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>SInce our laſt from hence, we have had much buſi<g ref="char:EOLhyphen"/>neſſe and wearied daily with ſeverall imploy<g ref="char:EOLhyphen"/>ments of which here is a briefe account.</p>
+            <p>On Thurſday the as of July 1647 Colonel Sir <hi>Hen<g ref="char:EOLhyphen"/>ry Titchburne</hi> marched out towards <hi>Drogheda,</hi> and with him rid his Sonne, and divers Gollonels, Ma<g ref="char:EOLhyphen"/>ions, and Gentlemen of note, about fourty is number all Officers, and others of very good quallity. And in their march they were, ſurprized by a party of the Rebels Horſe, paſſing <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>alrud <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erry,</hi> three of the <hi>Iriſh</hi> Troopes fell upon them on a ſuddain our men were all well mounted, but were beſet on every ſide by the Enomy.</p>
+            <p>Yet Sir <hi>Nonry Titchburne</hi> with the roſt) rid up to them, who charged in the Reare, where though our Officers were over powred, yet they fought moſt
+<pb n="2" facs="tcp:160423:3"/>ſtoutly, and ſlew divers of the Rebels, the fight be<g ref="char:EOLhyphen"/>ing exceeding violent on both ſides.</p>
+            <p>Sir <hi>Henry Titchburne</hi> got away, by breaking through them, but was ſhot with a brace of bullets, but (God be praiſed the wound is not motal, only one of the bullets graſed ſide-long nere his belly) wee doubt not but the wound will bee healed in ſhort time.</p>
+            <p>There was not a man amongſt the Officers and Gentlemen that were with him but fought bravely, and all thoſe which are eſcaped are every man of them ſorely wounded.</p>
+            <p>Sir <hi>Henry Titchburnes</hi> Son a very hopefull young Gentleman, (and one much lamented) was there ſlain in the incounter and alſo Lieutenant Collonel <hi>Trevor</hi> of <hi>Carlingford,</hi> with ſome others for whoſe deaths here is much ſadneſſe, both in the City and Coun<g ref="char:EOLhyphen"/>try.</p>
+            <p>Major <hi>Gore</hi> fought bravely, and is hurt by the Rebels, but fought ſtill ſo long as he was able, but being over powred, the Rebels tooke him priſoner.</p>
+            <p>Major <hi>Gibſon</hi> fell on the Rebels like a Lyon, kil<g ref="char:EOLhyphen"/>ling and wounding many of them, and he is miſſing but whither hee be ſlaine, or taken priſoner by the Rebles wee doe not yet certainly know, wee have yet no accompt that he is a live, divers others are ſlain, and many they tooke priſoners.</p>
+            <p>It was Gods exceeding great mercy (to us) that theſe Gentlemen were not cut off, every one of them, by thoſe blood-thirſty Villanes, who hunt after the Proteſtants lives; And they had (at this time) a very great advantage upon theſe Gentlemen, both by their over powring their number ſo numerouſly, and alſo
+<pb n="3" facs="tcp:160423:3"/>in regard of the place where they had ſo hem'd them in that there was no eſcaping from them, but by flying through.</p>
+            <p>On the ſame day all the Horſe and Foote were muſtered at a general Rendezvouz the place where they not was on St. <hi>Stephens</hi> Greene, to which they were ordered by the Commiſſioners directions, and the command of Collonel Jones, the Goverour of <hi>Dublin,</hi> and the Councel of Warre, upon thoſe Or<g ref="char:EOLhyphen"/>ders, that ſo the whole body might be viewed be<g ref="char:EOLhyphen"/>fore they marched abroad towards the Enemies quar<g ref="char:EOLhyphen"/>ters.</p>
+            <p>At this Randezvouz there appeared upon Muſter above 4000 horſe and Foot, and good Equipage, and the Souldiers very reſolut<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <p>After the army was muſtered, and returned home into the City, (which was before the Market was o<g ref="char:EOLhyphen"/>ver, it being Market-day) the Engliſh Souldiers be<g ref="char:EOLhyphen"/>gun at the end of the Town to plunder ſome Market people, where they had ſome little oppoſition, but to little purpoſe, for they carryed away what they laid hands on, and comming up into the City, they plundered all the Market befo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e them, which cauſed the Market people to run with their wares, ſome into ſhops, others into houſes (as many as could) to ſe<g ref="char:EOLhyphen"/>cure their goods, hoping that would doe it, and I beleeve there were divers that did ſave much of their ware ſo.</p>
+            <p>But the Souldiers (being grown into this diſorder) and the City hereby in an hubbub, they ſtayed not here, but plundered many ſhops alſo, and ſome hou<g ref="char:EOLhyphen"/>ſes, though their Officers uſed what meanes they could to appeaſe them, which they were not able to doe for ſome houres.</p>
+            <pb n="4" facs="tcp:160423:4"/>
+            <p> In this their plundering, they made no diſtinctions, of perſons where they came, no difference betwixt Engliſh and Iriſh, Proteſtants and Papiſts, all was alike to them, and all fared alike when they were en<g ref="char:EOLhyphen"/>tred upon their booty.</p>
+            <p>They alſo brake into the Exciſe Houſe where the Crmmiſſioners were ſitting, and there took what monies they found. And (being not ſatisfied with that, and ſomething provoked by the Gentlemen who were loath to part with the monies upon thoſe termes) they ſeaſed on the Impoſt-Maſters them<g ref="char:EOLhyphen"/>ſelves, and ſtrip them, and tooke from them not only the monies in their pockets, but their cloakes from their backs, their Hats from their heads, their Shooes from their feet, and their Rings from their fingers, and they alſo tooke from them their watches, and whatſoever elſe they found about them that was of value or uſe for them.</p>
+            <p>So that what with the Enemy abroad and the Soul<g ref="char:EOLhyphen"/>diers at home, Your Lordſhips may judge in what a moſt ſadde condition we are in here in this City.</p>
+            <p>On Friday <hi>July</hi> 30 1647. (The Governour ha<g ref="char:EOLhyphen"/>ving the night before appeaſed theſe mutinies as well as he could, in which hee deported himſelfe with great diſcretion, and gallently) There were prepa<g ref="char:EOLhyphen"/>rations made for the Army to march out into the field to relieve the beſieged Garriſon, And force the E<g ref="char:EOLhyphen"/>nemy to a further diſtance from this place, Onders went out for carriages, and other neceſſaries, and in<g ref="char:EOLhyphen"/>ſtructions for the march.</p>
+            <p>On Saturday, July 31. we were very buſie in ſetting forward our Army, and all things were appoynted to be in a readineſſe to march the next morning againſt
+<pb n="5" facs="tcp:160423:4"/>the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. The Lord preferred this <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and grant that they may return victorious, which with Gods aſ<g ref="char:EOLhyphen"/>ſiſtance I make no doubt of. <hi>Preſton,</hi> we heare had threatned the Garriſons of <hi>Trim</hi> and <hi>Maynoth,</hi> that if they would not ſurre<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>der, he would <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them, and put all to the s<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ord <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they are ireſolute within, in <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of reliefe from hence, to which theſe Souldiers haue ſhowed a very great willingneſſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <p>On the Lords day, Auguſt 1. inſtan<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, our Army ſet for<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ard from herce upon their march. They tooke forth with them 2. demi-culverins, and 5. Field- pee<g ref="char:EOLhyphen"/>ces, with carriages, powder, bullet, match, and other <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and neceſſaries to encounter wi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h the <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>my, and they marched towards <hi>Drogheda.</hi>
+            </p>
+            <p>Sir <hi>Henry Tichburne</hi> (who God be thanked is pretty well of his hurt) with his men, Col. <hi>Coot</hi> with his and alſo the Scots, were all appoynted to joyne with our Army: and we received le<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s that day of their ad<g ref="char:EOLhyphen"/>vance towards us.</p>
+            <p>On Munday, Auguſt 2. a Poſt was diſpatched from hence to Col. <hi>Iones,</hi> upon advertiſements from <hi>London.</hi> That day we had Alarms from the Rebels, who made approaches with their horſes ſo neer us, that they took away ſome of our cattell.</p>
+            <p>On Tueſday, Auguſt 3. the enemies were ſo bold, that they marched up to our very trenches, and that day, and the day before, took away about 300. faire Engliſh milch Cowes.</p>
+            <p>We have 3. Troops left here to guard the City, viz. the Lord <hi>Lamberts,</hi> Sir <hi>Iohn Hoges,</hi> and Capt. <hi>Creſsies,</hi> which hardly conſiſt of 80. horſe.</p>
+            <p>This preſent Wedneſday, Aug. 4. about 9. of the clock, there was an alarm at the end of the New ſtreet,
+<pb n="6" facs="tcp:160423:5"/>where they took away our Cowes, and killed Lie<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>nant <hi>Bond,</hi> who ſallied out to relieve them.</p>
+            <p>This morning our Army met with 2000 Foot, and 600 Horſe, which came from the North to joyn with ours, according to the former Inſtructions: and the<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the whole Army joyned, conſiſting of about 7000 Horſe and foot, who marched towards the enemy, and forced <hi>Preſton</hi> to raiſe the ſiege from <hi>Trim,</hi> from whence he is <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>led, and Col. <hi>Jones</hi> having relieved <hi>Trim</hi> and <hi>Maynoth,</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntends to try if the enemy will fight him. God give a good iſſue. So prayes</p>
+            <closer>
+               <signed>Your Lordſhips humble Seruant.</signed> 
+               <dateline>Dublin <date>Aug. 4. 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
